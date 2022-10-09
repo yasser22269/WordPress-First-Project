@@ -1,5 +1,5 @@
 <div class="container-fluid fh5co_footer_bg pb-3">
-    <div class="container">
+    <div class="container animate-box">
 <!--         animate-box-->
         <div class="row">
             <div class="col-12 spdp_right py-5"><img src="images/white_logo.png" alt="img" class="footer_logo"/></div>
@@ -91,7 +91,6 @@
 
 
 <?php wp_footer(); ?>
-<script src="<?php echo get_template_directory_uri();?>/js/main.js"></script>
 
 </body>
 </html>
